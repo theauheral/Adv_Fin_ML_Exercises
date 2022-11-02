@@ -72,7 +72,7 @@ llvmlite==0.26.0
 locket==0.2.0
 logzero==1.5.0
 lunardate==0.2.0
-lxml==4.2.5
+lxml==4.9.1
 Mako==1.0.7
 MarkupSafe==1.1.0
 matplotlib==3.0.2
@@ -91,8 +91,8 @@ nb-conda-kernels==2.1.0
 nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.7.4
-numba==0.41.0
-numpy==1.15.4
+numba==0.49.0
+numpy==1.22.2
 packaging==19.0
 palettable==3.1.1
 pandas==0.23.4
@@ -170,7 +170,7 @@ tqdm==4.28.1
 traitlets==4.3.2
 Twisted==19.7.0
 tzlocal==1.5.1
-urllib3==1.24.1
+urllib3==1.26.5
 uvloop==0.11.3
 watermark==1.6.1
 wcwidth==0.1.7
