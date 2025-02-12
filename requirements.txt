@@ -1,4 +1,4 @@
-aiohttp==3.4.4
+aiohttp==3.10.11
 alabaster==0.7.12
 appdirs==1.4.3
 arch==4.7.0
@@ -47,7 +47,7 @@ flake8==3.6.0
 future==0.17.1
 h5py==2.9.0
 heapdict==1.0.0
-holidays==0.9.8
+holidays==0.45
 html5lib==1.0.1
 hyperlink==18.0.0
 idna==2.8
@@ -60,7 +60,7 @@ ipython==6.5.0
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jedi==0.12.1
-Jinja2==2.10
+Jinja2==3.1.5
 jinja2-time==0.2.0
 jmespath==0.9.3
 joblib==0.12.5
@@ -92,7 +92,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.7.4
 numba==0.41.0
-numpy==1.15.4
+numpy==1.22.2
 packaging==19.0
 palettable==3.1.1
 pandas==0.23.4
@@ -165,7 +165,7 @@ Theano==1.0.2+2.gc449c86.dirty
 thrift==0.11.0
 timeutils==0.3.2
 toolz==0.9.0
-tornado==5.0.2
+tornado==6.4.2
 tqdm==4.28.1
 traitlets==4.3.2
 Twisted==19.7.0
@@ -183,3 +183,4 @@ wrapt==1.10.11
 yarl==1.2.6
 zict==0.1.3
 zope.interface==4.5.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
