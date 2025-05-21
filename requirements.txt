@@ -165,7 +165,7 @@ Theano==1.0.2+2.gc449c86.dirty
 thrift==0.11.0
 timeutils==0.3.2
 toolz==0.9.0
-tornado==5.0.2
+tornado==6.5
 tqdm==4.28.1
 traitlets==4.3.2
 Twisted==19.7.0
